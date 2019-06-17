@@ -1,0 +1,16 @@
+# Unity editor files
+/Assets
+/Temp
+/Library
+/Unity.userprefs
+
+# IDE project/solution files
+*.sln
+*.csproj
+
+# Binary data
+Assets/OpenCV+Unity/Plugins/*
+
+# Binaries
+*.dll
+*.dll.meta

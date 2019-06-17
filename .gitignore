@@ -1,0 +1,44 @@
+#OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# vim
+*.swp
+
+# VS
+*.vs
+*.db
+*.VC.opendb
+
+# Unity
+Unity/obj
+
+# build
+Temp
+Bin
+build/*
+release/*
+
+tmp/*
+*.xcuserdatad
+*DerivedData
+
+# binary
+*.apk
+opencv/opencv-*/3rdparty/*/downloads
+
+#hdr_parser.pyc appears after building opencv for android
+#This file is missed in the original OpenCV 3.0 repository  
+opencv/opencv-*/modules/python/src2/hdr_parser.pyc
+
+# auto-downloaded
+opencv/opencv-*/3rdparty/ffmpeg/ffmpeg_version.cmake
+opencv/opencv-*/3rdparty/ffmpeg/opencv_ffmpeg.dll
+opencv/opencv-*/3rdparty/ffmpeg/opencv_ffmpeg_64.dll
+source/opencv-*/3rdparty/ippicv/downloads
+
+# appeared after building opencv with platform/osx/build_framework.py
+opencv/opencv-*/platforms/ios/build_framework.pyc
+# appeared after building macos bundle with build-all.sh
+source/opencv-*/modules/python/src2/hdr_parser.pyc

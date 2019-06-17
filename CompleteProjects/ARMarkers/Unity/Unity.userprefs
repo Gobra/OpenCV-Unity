@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PaperPlaneTools/ARMarker/Documentation/Readme.txt">
+    <Files>
+      <File FileName="Assets/PaperPlaneTools/ARMarker/Scripts/SceneScaler.cs" Line="1" Column="1" />
+      <File FileName="Assets/PaperPlaneTools/ARMarker/Scripts/MainScript.cs" Line="11" Column="34" />
+      <File FileName="../../../../../sandbox/MarkerBaseArSample/Assets/MarkerBasedARSample/Scripts/WebCamTextureMarkerBasedARSample.cs" Line="123" Column="30" />
+      <File FileName="Assets/PaperPlaneTools/ARMarker/Scripts/MarkerDetector.cs" Line="50" Column="1" />
+      <File FileName="Assets/PaperPlaneTools/ARMarker/Scripts/MatrixHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/PaperPlaneTools/ARMarker/Documentation/Readme.txt" Line="5" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,2 @@
+set(XCODE_ATTRIBUTE_GCC_OPTIMIZATION_LEVEL[variant=Release] 3)
+#set_target_properties(AcquireRelease PROPERTIES XCODE_ATTRIBUTE_GCC_OPTIMIZATION_LEVEL "s")

@@ -1,0 +1,10 @@
+#OS generated files #
+######################
+Unity/Assets/OpenCV+Unity
+Unity/Assets/OpenCV+Unity.meta
+Unity/Assets/gmcs.rsp
+Unity/Assets/gmcs.rsp.meta
+Unity/Assets/smcs.rsp
+Unity/Assets/smcs.rsp.meta
+Unity/Library
+Test/SolvePnP_test/build
